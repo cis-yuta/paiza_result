@@ -29,6 +29,6 @@ cloneしたディレクトリを選択
 
 ## 実際に使用する
 paizaのリザルト画面で右上のこのアイコンをクリックすると使用できる
-![image](https://user-images.githubusercontent.com/70904736/226347838-556a1f2b-9a98-465d-9ee4-8bd0c6dbc33f.png)
+<img width="57" alt="image" src="https://user-images.githubusercontent.com/70904736/226509324-54d24a30-6c4e-476d-8d83-3e1bdcfa9533.png">
 
 
