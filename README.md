@@ -25,7 +25,7 @@ cloneしたディレクトリを選択
 ↓
 
 読み込んだ拡張ツールをピン留めする
-![image](https://user-images.githubusercontent.com/70904736/226347683-bcf96781-c210-4ee0-8ece-9849e9c564fe.png)
+<img width="309" alt="image" src="https://user-images.githubusercontent.com/70904736/226509387-452bdf9f-cb56-494c-8810-fb946e662c52.png">
 
 ## 実際に使用する
 paizaのリザルト画面で右上のこのアイコンをクリックすると使用できる
